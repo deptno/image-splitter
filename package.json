@@ -1,0 +1,19 @@
+{
+  "name": "image-splitter",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/deptno/image-splitter.git",
+  "author": "bglee <deptno@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  },
+  "scripts": {
+    "prepublish": "tsc --outDir dist"
+  },
+  "dependencies": {
+    "@types/node": "^7.0.29",
+    "@types/sharp": "^0.17.2",
+    "sharp": "^0.18.1"
+  }
+}
