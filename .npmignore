@@ -5,3 +5,5 @@ node_modules/
 src
 CHANGELOG.md
 **/*.map
+src/**/*.ts
+index.ts
