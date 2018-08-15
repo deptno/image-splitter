@@ -1,4 +1,5 @@
 # image-splitter
+[![npm](https://img.shields.io/npm/dt/image-splitter.svg?style=for-the-badge)](https://www.npmjs.com/package/image-splitter)
 
 ## install
 
